@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660072059 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\mathematics\counting divisors\main.cpp
+	<iostream>
+	<cmath>
+

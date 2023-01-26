@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659352148 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\range queries\salary queries\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+

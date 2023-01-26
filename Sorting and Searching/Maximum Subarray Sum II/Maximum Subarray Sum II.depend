@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607114385 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\maximum subarray sum ii\main.cpp
+	<iostream>
+	<set>
+

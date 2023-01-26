@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608112078 source:c:\users\matij\desktop\folder\programming\cses\graphs\building teams\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

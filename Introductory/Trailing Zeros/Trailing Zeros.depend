@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606562560 source:c:\users\matij\desktop\folder\programming\cses\introductory\trailing zeros\main.cpp
+	<iostream>
+	<cmath>
+

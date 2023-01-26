@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1614185561 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\nested ranges count\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+
+1658953823 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\sorting and searching\nested ranges count\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+

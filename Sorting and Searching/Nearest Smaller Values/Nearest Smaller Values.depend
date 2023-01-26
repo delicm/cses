@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606988855 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\nearest smaller values\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+

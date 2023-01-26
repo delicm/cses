@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606570250 source:c:\users\matij\desktop\folder\programming\cses\introductory\creating strings\main.cpp
+	<iostream>
+	<string>
+

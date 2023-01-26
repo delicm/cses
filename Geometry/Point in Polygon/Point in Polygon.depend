@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662853403 source:c:\users\matij\desktop\the folder\math & cs\olympiad\programming\cses\geometry\point in polygon\main.cpp
+	<iostream>
+	<vector>
+	<complex>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614265802 source:c:\users\matij\desktop\folder\programming\cses\dynamic programming\counting numbers\main.cpp
+	<iostream>
+	<cmath>
+
+1659016313 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\dynamic programming\counting numbers\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<stack>
+

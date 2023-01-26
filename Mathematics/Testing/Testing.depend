@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660674316 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\mathematics\testing\main.cpp
+	<iostream>
+	"avl.h"
+
+1660674176 c:\users\matij\desktop\the folder\olympiad\programming\cses\mathematics\testing\avl.h
+	<stdio.h>
+
+1660674328 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\mathematics\testing\avl.cpp
+	"avl.h"
+	<iostream>
+

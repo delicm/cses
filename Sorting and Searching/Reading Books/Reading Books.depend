@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606926297 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\reading books\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+

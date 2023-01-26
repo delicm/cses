@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658920582 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\introductory\gray code\main.cpp
+	<iostream>
+	<cmath>
+

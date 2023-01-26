@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607084394 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\sliding median\main.cpp
+	<iostream>
+	<set>
+	<queue>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+	<ext/pb_ds/detail/standard_policies.hpp>
+

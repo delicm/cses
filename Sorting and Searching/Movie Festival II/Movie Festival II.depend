@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607102499 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\movie festival ii\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+

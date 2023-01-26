@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607024409 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\subarray divisibility\main.cpp
+	<iostream>
+	<map>
+	<vector>
+

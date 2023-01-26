@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606736568 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\apartements\main.cpp
+	<iostream>
+	<algorithm>
+

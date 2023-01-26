@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659001072 source:c:\users\matij\desktop\the folder\olympiad\programming\cses\introductory\digit queries\main.cpp
+	<iostream>
+	<cmath>
+	<tuple>
+

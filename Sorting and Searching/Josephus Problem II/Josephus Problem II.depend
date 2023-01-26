@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614110342 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\josephus problem ii\main.cpp
+	<iostream>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+

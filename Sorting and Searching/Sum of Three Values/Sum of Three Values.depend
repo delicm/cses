@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606928517 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\sum of three values\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614185751 source:c:\users\matij\desktop\folder\programming\cses\sorting and searching\nested ranges check\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+
